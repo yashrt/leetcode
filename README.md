@@ -4,6 +4,7 @@ Solution for the Leetcode's Algorithm Problems
 | --- | :---: | :---: | :---: |
 | 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | Medium | [cpp](https://leetcode.com/problems/combination-sum/) |
 | 61 | [Rotate List](https://leetcode.com/problems/rotate-list/) | Medium | [cpp](https://leetcode.com)
+| 449 | [Serialize and Deserialize BST](https://leetcode.com/problems/serialize-and-deserialize-bst/) | Medium | [cpp](https://leetcode.com)
 | 532 | [K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/) | Medium | [cpp](https://leetcode.com/problems/combination-sum/) |
 | 701 | [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | Medium | [cpp](https://leetcode.com) |
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | Easy | [cpp](https://leetcode.com) |
