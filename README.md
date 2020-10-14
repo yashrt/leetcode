@@ -2,12 +2,12 @@
 Solution for the Leetcode's Algorithm Problems
 | # | Question | Difficulty | Solution |
 | --- | :---: | :---: | :---: |
-| 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | Medium | [cpp](https://leetcode.com/problems/combination-sum/) |
+| 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | Medium | [cpp](https://github.com/yashrt/leetcode/blob/main/cpp/39_Combination_Sum/solution.cpp) |
 | 61 | [Rotate List](https://leetcode.com/problems/rotate-list/) | Medium | [cpp](https://leetcode.com) |
-| 148 | [Sort List](https://leetcode.com/problems/sort-list/) | Medium | [cpp](https://leetcode.com) |
-| 213 | [House Robber II](https://leetcode.com/problems/house-robber-ii/) | Medium | [cpp](https://leetcode.com)
-| 316 | [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/) | Medium | [cpp](https://leetcode.com)
-| 449 | [Serialize and Deserialize BST](https://leetcode.com/problems/serialize-and-deserialize-bst/) | Medium | [cpp](https://leetcode.com)
+| 148 | [Sort List](https://leetcode.com/problems/sort-list/) | Medium | [cpp](https://github.com/yashrt/leetcode/blob/main/cpp/148_Sort_List/solution.cpp) |
+| 213 | [House Robber II](https://leetcode.com/problems/house-robber-ii/) | Medium | [cpp](https://github.com/yashrt/leetcode/blob/main/cpp/213_House_Robber_II/solution.cpp) |
+| 316 | [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/) | Medium | [cpp](https://leetcode.com) |
+| 449 | [Serialize and Deserialize BST](https://leetcode.com/problems/serialize-and-deserialize-bst/) | Medium | [cpp](https://leetcode.com) |
 | 452 | [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) | Medium | [cpp](https://leetcode.com)
 | 532 | [K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/) | Medium | [cpp](https://leetcode.com/problems/combination-sum/) |
 | 701 | [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | Medium | [cpp](https://leetcode.com) |
