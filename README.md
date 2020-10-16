@@ -3,7 +3,7 @@ Solution for the Leetcode's Algorithm Problems
 | # | Question | Difficulty | Solution |
 | --- | :---: | :---: | :---: |
 | 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | Medium | [cpp](https://github.com/yashrt/leetcode/blob/main/cpp/39_Combination_Sum/solution.cpp) |
-| 61 | [Rotate List](https://leetcode.com/problems/rotate-list/) | Medium | [cpp](https://leetcode.com) |
+| 61 | [Rotate List](https://leetcode.com/problems/rotate-list/) | Medium | [cpp](https://github.com/yashrt/leetcode/blob/main/cpp/61_Rotate_List/solution.cpp) |
 | 148 | [Sort List](https://leetcode.com/problems/sort-list/) | Medium | [cpp](https://github.com/yashrt/leetcode/blob/main/cpp/148_Sort_List/solution.cpp) |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | Medium | [cpp](https://github.com/yashrt/leetcode/blob/main/cpp/189_Rotate%20Array/solution.cpp)
 | 213 | [House Robber II](https://leetcode.com/problems/house-robber-ii/) | Medium | [cpp](https://github.com/yashrt/leetcode/blob/main/cpp/213_House_Robber_II/solution.cpp) |
