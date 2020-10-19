@@ -17,5 +17,6 @@ Solution for the Leetcode's Algorithm Problems
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | Easy | [cpp](https://leetcode.com) |
 | 859 | [Buddy Strings](https://leetcode.com/problems/buddy-strings/) | Easy | [cpp](https://leetcode.com)
 | 933 | [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) | Easy | [cpp](https://leetcode.com/problems/number-of-recent-calls/) |
+| 1007 | [Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/) | Medium | [cpp](https://github.com/yashrt/leetcode/blob/main/cpp/1007_Minimum_Domino_Rotations_For_Equal_Row/solution.cpp) |
 | 1009 | [Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/) | Easy | [cpp](https://leetcode.com)
 | 1288 | [Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/) | Medium | [cpp](https://leetcode.com)
