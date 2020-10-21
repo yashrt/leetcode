@@ -16,6 +16,7 @@ Solution for the Leetcode's Algorithm Problems
 | 532 | [K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/) | Medium | [cpp](https://leetcode.com/problems/combination-sum/) |
 | 701 | [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | Medium | [cpp](https://leetcode.com) |
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | Easy | [cpp](https://leetcode.com) |
+| 735 | [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) | Medium | [cpp](https://github.com/yashrt/leetcode/blob/main/cpp/735_Asteroid_Collision/solution.cpp) |
 | 859 | [Buddy Strings](https://leetcode.com/problems/buddy-strings/) | Easy | [cpp](https://leetcode.com)
 | 933 | [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) | Easy | [cpp](https://leetcode.com/problems/number-of-recent-calls/) |
 | 1007 | [Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/) | Medium | [cpp](https://github.com/yashrt/leetcode/blob/main/cpp/1007_Minimum_Domino_Rotations_For_Equal_Row/solution.cpp) |
