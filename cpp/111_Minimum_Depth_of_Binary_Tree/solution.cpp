@@ -17,8 +17,7 @@ public:
             return ans+1;
         else 
         {
-            int l = INT_MAX;
-			int r = INT_MAX;
+            int l = INT_MAX, r = INT_MAX;
             if (root->left)
                 l = help(root->left, ans+1);
             if (root->right)
