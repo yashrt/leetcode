@@ -7,6 +7,7 @@ Solution for the Leetcode's Algorithm Problems
 | 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | Medium | [cpp](https://github.com/yashrt/leetcode/blob/main/cpp/74_Search_a_2D_Matrix/solution.cpp) |
 | 111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | Medium | [cpp](https://github.com/yashrt/leetcode/blob/main/cpp/111_Minimum_Depth_of_Binary_Tree/solution.cpp) |
 | 133 | [Clone Graph](https://leetcode.com/problems/clone-graph/) | Medium | [cpp](https://github.com/yashrt/leetcode/blob/main/cpp/133_Clone_Graph/solution.cpp) |
+| 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | Medium | [cpp]() |
 | 148 | [Sort List](https://leetcode.com/problems/sort-list/) | Medium | [cpp](https://github.com/yashrt/leetcode/blob/main/cpp/148_Sort_List/solution.cpp) |
 | 187 | [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/) | Medium | [cpp](https://github.com/yashrt/leetcode/blob/main/cpp/187_Repeated_DNA_Sequences/solution.cpp) |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | Medium | [cpp](https://github.com/yashrt/leetcode/blob/main/cpp/189_Rotate%20Array/solution.cpp)
