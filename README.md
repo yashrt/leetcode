@@ -12,6 +12,7 @@ Solution for the Leetcode's Algorithm Problems
 | 187 | [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/) | Medium | [cpp](https://github.com/yashrt/leetcode/blob/main/cpp/187_Repeated_DNA_Sequences/solution.cpp) |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | Medium | [cpp](https://github.com/yashrt/leetcode/blob/main/cpp/189_Rotate%20Array/solution.cpp)
 | 213 | [House Robber II](https://leetcode.com/problems/house-robber-ii/) | Medium | [cpp](https://github.com/yashrt/leetcode/blob/main/cpp/213_House_Robber_II/solution.cpp) |
+| 228 | [Summary Ranges](https://leetcode.com/problems/summary-ranges/) | Easy | [cpp]() |
 | 316 | [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/) | Medium | [cpp](https://github.com/yashrt/leetcode/blob/main/cpp/316_Remove_Duplicate_Letters/solution.cpp) |
 | 449 | [Serialize and Deserialize BST](https://leetcode.com/problems/serialize-and-deserialize-bst/) | Medium | [cpp](https://github.com/yashrt/leetcode/blob/main/cpp/449_Serialize_and_Deserialize_BST/solution.cpp) |
 | 452 | [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) | Medium | [cpp](https://leetcode.com)
