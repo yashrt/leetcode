@@ -17,6 +17,7 @@ Solution for the Leetcode's Algorithm Problems
 | 449 | [Serialize and Deserialize BST](https://leetcode.com/problems/serialize-and-deserialize-bst/) | Medium | [cpp](https://github.com/yashrt/leetcode/blob/main/cpp/449_Serialize_and_Deserialize_BST/solution.cpp) |
 | 452 | [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) | Medium | [cpp](https://leetcode.com)
 | 532 | [K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/) | Medium | [cpp](https://leetcode.com/problems/combination-sum/) |
+| 673 | [Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/) | Medium | [cpp]() |
 | 701 | [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | Medium | [cpp](https://leetcode.com) |
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | Easy | [cpp](https://leetcode.com) |
 | 735 | [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) | Medium | [cpp](https://github.com/yashrt/leetcode/blob/main/cpp/735_Asteroid_Collision/solution.cpp) |
