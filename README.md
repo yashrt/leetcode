@@ -3,6 +3,7 @@ Solution for the Leetcode's Algorithm Problems
 | # | Question | Difficulty | Solution |
 | --- | :---: | :---: | :---: |
 | 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | Medium | [cpp](https://github.com/yashrt/leetcode/blob/main/cpp/39_Combination_Sum/solution.cpp) |
+| 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | Medium | [cpp](https://github.com/yashrt/leetcode/blob/main/cpp/56_Merge_Intervals/solution.cpp) |
 | 61 | [Rotate List](https://leetcode.com/problems/rotate-list/) | Medium | [cpp](https://github.com/yashrt/leetcode/blob/main/cpp/61_Rotate_List/solution.cpp) |
 | 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | Medium | [cpp](https://github.com/yashrt/leetcode/blob/main/cpp/74_Search_a_2D_Matrix/solution.cpp) |
 | 111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | Medium | [cpp](https://github.com/yashrt/leetcode/blob/main/cpp/111_Minimum_Depth_of_Binary_Tree/solution.cpp) |
