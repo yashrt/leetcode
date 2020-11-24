@@ -3,6 +3,7 @@ Solution for the Leetcode's Algorithm Problems
 | # | Question | Difficulty | Solution |
 | --- | :---: | :---: | :---: |
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [cpp](https://github.com/yashrt/leetcode/blob/main/cpp/1_Two_Sum/solution.cpp) |
+| 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | Easy | [cpp](https://github.com/yashrt/leetcode/blob/main/cpp/35_Search_Insert_Position/solution.cpp) |
 | 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | Medium | [cpp](https://github.com/yashrt/leetcode/blob/main/cpp/39_Combination_Sum/solution.cpp) |
 | 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | Medium | [cpp](https://github.com/yashrt/leetcode/blob/main/cpp/56_Merge_Intervals/solution.cpp) |
 | 61 | [Rotate List](https://leetcode.com/problems/rotate-list/) | Medium | [cpp](https://github.com/yashrt/leetcode/blob/main/cpp/61_Rotate_List/solution.cpp) |
