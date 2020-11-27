@@ -36,7 +36,7 @@ Solution for the Leetcode's Algorithm Problems
 | 1007 | [Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/) | Medium | [cpp](https://github.com/yashrt/leetcode/blob/main/cpp/1007_Minimum_Domino_Rotations_For_Equal_Row/solution.cpp) |
 | 1009 | [Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/) | Easy | [cpp](https://leetcode.com)
 | 1015 | [Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k/) | Medium | [cpp](https://github.com/yashrt/leetcode/blob/main/cpp/1015_Smallest_Integer_Divisible_by_K/solution.cpp) |
-| 1288 | [Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/) | Medium | [cpp](https://leetcode.com)
+| 1288 | [Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/) | Medium | [cpp]() |
 | 1290 | [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | Easy | [cpp](https://github.com/yashrt/leetcode/blob/main/cpp/1290_Convert_Binary_Number_in_a_Linked_List_to_Integer/solution.cpp) |
 | 1446 | [Consecutive Characters](https://leetcode.com/problems/consecutive-characters/) | Easy | [cpp](https://github.com/yashrt/leetcode/blob/main/cpp/1446_Consecutive_Characters/solution.cpp) |
 | 1510 | [Stone Game IV](https://leetcode.com/problems/stone-game-iv/) | Hard | [cpp]() |
