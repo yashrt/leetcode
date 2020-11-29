@@ -28,7 +28,7 @@ Solution for the Leetcode's Algorithm Problems
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | Easy | [cpp](https://leetcode.com) |
 | 735 | [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) | Medium | [cpp](https://github.com/yashrt/leetcode/blob/main/cpp/735_Asteroid_Collision/solution.cpp) |
 | 799 | [Champagne Tower](https://leetcode.com/problems/champagne-tower/) | Medium | [cpp]() |
-| 804| [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/) | Easy | [cpp](https://github.com/yashrt/leetcode/blob/main/cpp/804_Unique_Morse_Code_Words/solution.cpp) |
+| 804 | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/) | Easy | [cpp](https://github.com/yashrt/leetcode/blob/main/cpp/804_Unique_Morse_Code_Words/solution.cpp) |
 | 849 | [Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/) | Medium | [cpp]() |
 | 859 | [Buddy Strings](https://leetcode.com/problems/buddy-strings/) | Easy | [cpp](https://leetcode.com)
 | 902 | [Numbers At Most N Given Digit Set](https://leetcode.com/problems/numbers-at-most-n-given-digit-set/) | Hard | [cpp](https://github.com/yashrt/leetcode/blob/main/cpp/902_Numbers_At_Most_N_Given_Digit_Set/solution.cpp) |
@@ -39,5 +39,6 @@ Solution for the Leetcode's Algorithm Problems
 | 1015 | [Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k/) | Medium | [cpp](https://github.com/yashrt/leetcode/blob/main/cpp/1015_Smallest_Integer_Divisible_by_K/solution.cpp) |
 | 1288 | [Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/) | Medium | [cpp]() |
 | 1290 | [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | Easy | [cpp](https://github.com/yashrt/leetcode/blob/main/cpp/1290_Convert_Binary_Number_in_a_Linked_List_to_Integer/solution.cpp) |
+| 1306 | [Jump Game III](https://leetcode.com/problems/jump-game-iii/) | Medium | [cpp]() |
 | 1446 | [Consecutive Characters](https://leetcode.com/problems/consecutive-characters/) | Easy | [cpp](https://github.com/yashrt/leetcode/blob/main/cpp/1446_Consecutive_Characters/solution.cpp) |
 | 1510 | [Stone Game IV](https://leetcode.com/problems/stone-game-iv/) | Hard | [cpp]() |
