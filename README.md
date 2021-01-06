@@ -44,4 +44,5 @@ Solution for the Leetcode's Algorithm Problems
 | 1379 | [Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Medium | [cpp](https://github.com/yashrt/leetcode/blob/main/cpp/1379_Find_a_Corresponding_Node_of_a_Binary_Tree_in_a_Clone_of_That_Tree/solution.cpp) |
 | 1446 | [Consecutive Characters](https://leetcode.com/problems/consecutive-characters/) | Easy | [cpp](https://github.com/yashrt/leetcode/blob/main/cpp/1446_Consecutive_Characters/solution.cpp) |
 | 1510 | [Stone Game IV](https://leetcode.com/problems/stone-game-iv/) | Hard | [cpp]() |
+| 1539 | [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/) | Easy | [cpp](https://github.com/yashrt/leetcode/blob/main/cpp/1539_Kth_Missing_Positive_Number/solution.cpp) |
 | 1640 | [Check Array Formation Through Concatenation](https://leetcode.com/problems/check-array-formation-through-concatenation/) | Easy | [cpp](https://github.com/yashrt/leetcode/blob/main/cpp/1640_Check_Array_Formation_Through_Concatenation/solution.cpp) |
