@@ -3,6 +3,7 @@ Solution for the Leetcode's Algorithm Problems
 | # | Question | Difficulty | Solution |
 | --- | :---: | :---: | :---: |
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [cpp](https://github.com/yashrt/leetcode/blob/main/cpp/1_Two_Sum/solution.cpp) |
+| 3| [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium | [cpp](https://github.com/yashrt/leetcode/blob/main/cpp/3_Longest_Substring_Without_Repeating_Characters/solution.cpp) |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | Easy | [cpp](https://github.com/yashrt/leetcode/blob/main/cpp/35_Search_Insert_Position/solution.cpp) |
 | 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | Medium | [cpp](https://github.com/yashrt/leetcode/blob/main/cpp/39_Combination_Sum/solution.cpp) |
 | 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | Medium | [cpp](https://github.com/yashrt/leetcode/blob/main/cpp/56_Merge_Intervals/solution.cpp) |
@@ -46,3 +47,4 @@ Solution for the Leetcode's Algorithm Problems
 | 1510 | [Stone Game IV](https://leetcode.com/problems/stone-game-iv/) | Hard | [cpp]() |
 | 1539 | [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/) | Easy | [cpp](https://github.com/yashrt/leetcode/blob/main/cpp/1539_Kth_Missing_Positive_Number/solution.cpp) |
 | 1640 | [Check Array Formation Through Concatenation](https://leetcode.com/problems/check-array-formation-through-concatenation/) | Easy | [cpp](https://github.com/yashrt/leetcode/blob/main/cpp/1640_Check_Array_Formation_Through_Concatenation/solution.cpp) |
+| 1662 | [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/) | Easy | [cpp](https://github.com/yashrt/leetcode/blob/main/cpp/1662_Check_If_Two_String_Arrays_are_Equivalent/solution.cpp) |
